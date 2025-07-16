@@ -50,8 +50,7 @@ df.to_csv("hyderabad_weather_api.csv", index=False)
 print(df.head())
 
 
-
-Key Analyses Performed
+📊 Key Analyses Performed
 Monthly Temperature Trends
 
 Line plots of max and min temperatures by month
@@ -134,3 +133,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.savefig('weather_analysis_plots.png')
 plt.show()
+
+
+
+
