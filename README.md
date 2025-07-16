@@ -48,6 +48,9 @@ df = pd.DataFrame({
 
 df.to_csv("hyderabad_weather_api.csv", index=False)
 print(df.head())
+
+
+
 Key Analyses Performed
 Monthly Temperature Trends
 
